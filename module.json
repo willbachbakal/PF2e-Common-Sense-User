@@ -1,10 +1,10 @@
 {
-  "id": "",
-  "title": "",
+  "id": "common-sense-user",
+  "title": "Common Sense User",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
-    "minimum": "14",
+    "minimum": "13",
     "verified": "14",
     "maximum": "14"
   },
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A just-for-fun archetype for Pathfinder Second Edition who specializes in doing things you'd expect more people to do!",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "common-sense-user",
+      "label": "Common Sense User",
+      "path": "packs/common-sense-user",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/5G31jr1Uv8Jh"
 }
